@@ -1,0 +1,24 @@
+#output {
+  margin-top: 20px;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+.selected {
+  color: green;
+}
+
+.ctrl-pressed {
+  cursor: crosshair;
+}
+
+#textInput {
+  display: block;
+  margin: 20px auto;
+  text-align: center;
+}
+
+#applyButton {
+  display: block;
+  margin: 10px auto;
+}
